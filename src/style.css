@@ -1,5 +1,5 @@
-/* styles.css */
-body {
-    background-color: rebeccapurple;
-  }
-  
+.pizza-img{
+    max-height: 300px;
+    max-width: auto;
+
+}
